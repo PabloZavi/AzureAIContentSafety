@@ -8,3 +8,6 @@ C# Code to use Azure AI Content Safety for texts and images
 4. Instalamos librería con clic derecho en el proyecto → Administrar paquetes Nuget
 5. Buscamos “Azure.AI.ContentSafety” y lo instalamos.
 6. En program.cs copiamos y pegamos el código de alguno de los dos archivos de este repositorio
+
+IMPORTANTE:
+Usar el endpoint y la key del servicio de la persona que lo vaya a usar, las que están en el código ya no tienen validez
